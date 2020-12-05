@@ -11,5 +11,9 @@
     "url": "git@gutmate.github.com:gutmate/lecture-frontend-dev-env.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.10.0",
+    "webpack-cli": "^4.2.0"
+  }
 }
